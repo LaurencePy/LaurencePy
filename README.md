@@ -1,3 +1,4 @@
+# ![Projects Website](laurencepy.github.io) 
 # 💫 About Me:
 - I'm an aspiring Software Engineer studying Computer Science at Loughborough University<br>- I’m currently learning about AI and Machine Learning
 
