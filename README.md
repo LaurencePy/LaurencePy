@@ -1,9 +1,9 @@
 # [Projects Website](https://laurencepy.github.io) 
 
+### What I'm working on: [Spotify Compatibility Project](https://github.com/LaurencePy/Spotify-Compatibility)
 
 ## 💫 About Me:
-- I'm an aspiring Software Engineer studying Computer Science at Loughborough University<br>- I’m currently learning about AI and Machine Learning
-
+- I'm an aspiring Software Engineer studying Computer Science at Loughborough University<br>- I’m currently interested in AI & Machine Learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laurence-eaton) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22916226) 
