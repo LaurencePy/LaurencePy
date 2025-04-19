@@ -1,6 +1,6 @@
 # [Projects Website](https://laurencepy.github.io) 
 
-### What I'm working on: [Spotify Compatibility Project](https://github.com/LaurencePy/Spotify-Compatibility)
+### What I'm working on: []()
 
 ## 💫 About Me:
 - I'm a student studying Computer Science at Loughborough University<br>- I’m currently interested in Javascript, AI & Machine Learning
